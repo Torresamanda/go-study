@@ -47,8 +47,4 @@ func main() {
 	numero %= 2
 
 	fmt.Println(numero)
-
-	// Ternário
-
-	
 }
