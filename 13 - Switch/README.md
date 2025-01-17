@@ -2,7 +2,6 @@
 
 ## Switch
 
-
 - Estrutura
 ```bash
 switch num {
